@@ -82,7 +82,7 @@ GitHub 프로젝트를 기반으로 실제 개발 경험과
 
 ## Architecture & Engineering
 
-DevField는 **Microservices Architecture(MSA)**와
+DevField는 **Microservices Architecture** (**MSA**)와
 **Multi-Repository** 구조를 기반으로 설계합니다.
 
 ### Core Principles
